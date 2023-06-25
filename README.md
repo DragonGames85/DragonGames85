@@ -4,17 +4,11 @@
 ### Hi, I'm Danil 👋
 
 ## About me
-- 🌎 I'm from Russia
-- 💻 1,5+ Years Experience in Front-end Development
-- ⚡ Musician and video-game player
-
-### 📱 My contacts
-[<img alt="danil | telegram" src="https://img.shields.io/badge/telegram-1DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
-[<img alt="danil | mail" src="https://img.shields.io/badge/mail.ru-5920B1.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" />](mailto:dragongames85@mail.ru)
-[<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />][github]
-
-[telegram]: https://t.me/DanilZubov85
-[github]: https://github.com/DragonGames85
+* 🌎 I'm from Russia
+* 💻 1,5+ Years Experience in Front-end Development
+* ⚡ Musician and video-game player
+* 📫 My Mail: dragongames85@mail.ru
+* 👨‍💻 My CV: [github.com](https://github.com/DragonGames85/DragonGames85/blob/main/assets/CV.pdf)
 
 ---
 
