@@ -1,7 +1,8 @@
 
 <img src="https://github.com/DragonGames85/DragonGames85/blob/main/assets/channels4_banner.jpg">
 
-### Hi, I'm Danil 👋
+Hi, I'm Danil 👋
+==============================  
 
 ## About me
 * 🌎 I'm from Russia
