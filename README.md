@@ -19,7 +19,7 @@ Hi, I'm Danil 👋
 
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
-<img alt="laravel" src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="laravel" src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=fff" />&nbsp;
 
 - Frontend-Stack
 
