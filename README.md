@@ -9,7 +9,7 @@ Hi, I'm Danil 👋
 * 💻 2,5+ Years Experience in Front-end Development
 * ⚡ Musician and video-game player
 * 📫 My Mail: dragongames85@mail.ru
-* 👨‍💻 My CV: [github.com](https://github.com/DragonGames85/DragonGames85/blob/main/assets/CV.pdf)
+* 👨‍💻 My CV: [github.com](https://github.com/DragonGames85/DragonGames85/blob/main/assets/NewResume3.png)
 
 ---
 
