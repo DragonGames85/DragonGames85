@@ -1,5 +1,5 @@
 
-<img src="https://github.com/DragonGames85/DragonGames85/blob/main/assets/channels4_banner.jpg">
+<img src="https://github.com/DragonGames85/DragonGames85/blob/main/assets/banner.png">
 
 <h1 align="center">Данил Зубов — Frontend React разработчик</h1>
 
@@ -78,5 +78,5 @@ Frontend-разработчик с опытом более 3 лет.
 
 - ✉️ **Email:** <dragongames85@mail.ru>  
 - 💬 **Telegram:** <https://t.me/DanilZubov85>  
-- 📄 **Резюме (PDF):** [CV2.pdf](https://github.com/DragonGames85/DragonGames85/blob/main/assets/CV2.pdf)  
+- 📄 **Резюме (PDF):** [CV2.pdf](https://github.com/DragonGames85/DragonGames85/blob/main/assets/CV.pdf)  
 
