@@ -1,63 +1,82 @@
 
 <img src="https://github.com/DragonGames85/DragonGames85/blob/main/assets/channels4_banner.jpg">
 
-Hi, I'm Danil 👋
-==============================  
+<h1 align="center">Данил Зубов — Frontend React разработчик</h1>
 
-## About me
-* 🌎 I'm from Russia
-* 💻 3+ Years Experience in Front-end Development
-* ⚡ Musician and video-game player
-* 📫 My Mail: dragongames85@mail.ru
-* 👨‍💻 My CV: [github.com](https://github.com/DragonGames85/DragonGames85/blob/main/assets/CV2.pdf)
+<p align="center">
+  📍 г. Тюмень · 
+  ✉️ <a href="mailto:dragongames85@mail.ru">dragongames85@mail.ru</a> · 
+  💬 <a href="https://t.me/DanilZubov85">t.me/DanilZubov85</a>  
+</p>
 
----
+## Обо мне
+Frontend-разработчик с опытом более 3 лет.  
+Специализируюсь на создании веб-приложений с использованием современных инструментов и технологий.  
+Имею опыт работы с **200+ различными библиотеками и инструментами**.
 
-### 💻 Tech Stack:
+- Опыт работы с CI/CD, тестированием, отладкой и оптимизацией приложений  
+- Разработка интерфейсов с применением UI-библиотек, state-management инструментов и DevTools  
+- Владение английским языком (уровень B2)  
+- Есть водительские права (категория B)  
+- Возможность удалённой работы или переезда  
 
-- Frameworks:
+## 🛠 Стек технологий
 
-<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
-<img alt="laravel" src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=fff" />&nbsp;
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)&nbsp;![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)&nbsp;![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)&nbsp;![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)&nbsp;![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=fff)&nbsp;![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)&nbsp;![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=fff)
 
-- Frontend-Stack
+### React-библиотеки  
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=fff)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)&nbsp;![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)&nbsp;![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=fff)&nbsp;![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=fff)&nbsp;![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)&nbsp;![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=fff)&nbsp;![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=for-the-badge&logo=react&logoColor=fff)&nbsp;![React Select](https://img.shields.io/badge/React_Select-02569B?style=for-the-badge&logo=react&logoColor=fff)&nbsp;![React Toastify](https://img.shields.io/badge/React_Toastify-FF6F00?style=for-the-badge&logo=react&logoColor=fff)
 
-<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
-<img alt="tailwind" src="https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
-<img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=fff" />&nbsp;
+### UI-библиотеки  
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=fff)&nbsp;![Headless UI](https://img.shields.io/badge/Headless_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)&nbsp;![Ant Design](https://img.shields.io/badge/Antd-0170FE?style=for-the-badge&logo=antdesign&logoColor=fff)&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
-- React Libs
+### Backend / API  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)&nbsp;![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=fff)&nbsp;![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)&nbsp;![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=000)
 
-<img alt="react" src="https://img.shields.io/badge/react&nbsp;query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=fff" />&nbsp;
-<img alt="react-hook" src="https://img.shields.io/badge/react&nbsp;hook&nbsp;form-EC5990.svg?&style=for-the-badge&logo=reacthookform&logoColor=fff" />&nbsp;
-<img alt="react-router" src="https://img.shields.io/badge/react&nbsp;router-CA4245.svg?&style=for-the-badge&logo=reactrouter&logoColor=fff" />&nbsp;
+### Тестирование  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)&nbsp;![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff)&nbsp;![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff)&nbsp;![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)&nbsp;![Loki](https://img.shields.io/badge/Loki-9D5FFF?style=for-the-badge&logo=apachecassandra&logoColor=fff)
 
-- State Managers
+### Инструменты  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff)&nbsp;![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)&nbsp;![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)&nbsp;![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)&nbsp;![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=fff)&nbsp;![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000)&nbsp;![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=fff)&nbsp;![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff)
 
-<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="zustand" src="https://img.shields.io/badge/zustand-CC2936.svg?&style=for-the-badge&logo=zotero&logoColor=fff" />&nbsp;
+## Опыт работы
 
-- Testing
+**Самозанятость**  (с 2023 года)  
+**ООО «Стартех База»** — Frontend-разработчик  
+- Разработка и поддержка приложений на React/TS  
+- Работа с клиентской логикой, тестами и CI  
 
-<img alt="jest" src="https://img.shields.io/badge/jest-success.svg?&style=for-the-badge&logo=jest&logoColor=fff" /> <img alt="jest" src="https://img.shields.io/badge/rtl-red.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" /> <img alt="jest" src="https://img.shields.io/badge/loki-blueviolet.svg?&style=for-the-badge&logo=apache-cassandra&logoColor=fff" /> <img alt="jest" src="https://img.shields.io/badge/storybook-ff69b4.svg?&style=for-the-badge&logo=storybook&logoColor=fff" /> <img alt="jest" src="https://img.shields.io/badge/cypress-red.svg?&style=for-the-badge&logo=cypress&logoColor=fff" /> 
 
-- UI Kits
+## Мои проекты
 
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
-<img alt="antdesign" src="https://img.shields.io/badge/antdesign-0170FE.svg?&style=for-the-badge&logo=antdesign&logoColor=fff" />&nbsp;
+1) **Simple-posts** — учебное приложение с постами  
+Стек: Webpack, HTML, SCSS, TS, React, RTK Query, Jest, CI pipeline  
 
----
+2) **Campus-Course** — система кампусных курсов  
+Стек: Vite, HTML, SCSS, TS, React, React-Bootstrap, Zustand  
 
-### 🛠 Tools:
+3) **DeliveryКус** — сайт по доставке еды  
+Стек: HTML, CSS, React-Bootstrap, React-particles, Infinite-scroll  
 
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="eslint" src="https://img.shields.io/badge/eslint-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=fff" />&nbsp;
-<img alt="stylelint" src="https://img.shields.io/badge/stylelint-263238.svg?&style=for-the-badge&logo=stylelint&logoColor=fff" />&nbsp;
-<img alt="prettier" src="https://img.shields.io/badge/prettier-F7B93E.svg?&style=for-the-badge&logo=prettier&logoColor=fff" /> 
+4) **MovieCatalog** — каталог фильмов и отзывов  
+Стек: HTML, CSS, JS, Bootstrap, jQuery  
+
+
+## Образование
+
+**Бакалавриат (2021–2025)** — Программная инженерия  
+*Высшая IT-школа ТГУ, Томск*  
+
+
+## Курсы
+
+- «Продвинутый Frontend. В Production на React» — Ulbitv.ru (преподаватель: Тимур Ульби)
+
+
+## Контакты
+
+- ✉️ **Email:** <dragongames85@mail.ru>  
+- 💬 **Telegram:** <https://t.me/DanilZubov85>  
+- 📄 **Резюме (PDF):** [CV2.pdf](https://github.com/DragonGames85/DragonGames85/blob/main/assets/CV2.pdf)  
+
