@@ -4,7 +4,7 @@
 <h1 align="center">Данил Зубов — Frontend React разработчик</h1>
 
 <p align="center">
-  📍 г. Тюмень · 
+  📍 г. Москва · 
   ✉️ <a href="mailto:dragongames85@mail.ru">dragongames85@mail.ru</a> · 
   💬 <a href="https://t.me/DanilZubov85">t.me/DanilZubov85</a>  
 </p>
