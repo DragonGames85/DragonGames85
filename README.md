@@ -73,16 +73,16 @@ Frontend-разработчик с опытом более 3 лет.
 1) **Password Manager** Приложение-менеджер паролей
 Стек: React, TypeScript, Vite, Zustand, Tailwind, React Icons, ESLint + Prettier
 
-1) **Simple-posts** — учебное приложение с постами  
+2) **Simple-posts** — учебное приложение с постами  
 Стек: Webpack, HTML, SCSS, TS, React, RTK Query, Jest, CI pipeline  
 
-2) **Campus-Course** — система кампусных курсов  
+3) **Campus-Course** — система кампусных курсов  
 Стек: Vite, HTML, SCSS, TS, React, React-Bootstrap, Zustand  
 
-3) **DeliveryКус** — сайт по доставке еды  
+4) **DeliveryКус** — сайт по доставке еды  
 Стек: HTML, CSS, React-Bootstrap, React-particles, Infinite-scroll  
 
-4) **MovieCatalog** — каталог фильмов и отзывов  
+5) **MovieCatalog** — каталог фильмов и отзывов  
 Стек: HTML, CSS, JS, Bootstrap, jQuery  
 
 
