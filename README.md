@@ -70,7 +70,7 @@ Frontend-разработчик с опытом более 3 лет.
 
 ## Мои проекты
 
-1) **Password Manager** — Приложение-менеджер паролей  
+1) **Password Manager** — приложение-менеджер паролей  
 Стек: React, TypeScript, Vite, Zustand, Tailwind, React Icons, ESLint + Prettier
 
 2) **Simple-posts** — учебное приложение с постами  
