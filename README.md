@@ -4,12 +4,18 @@
 <h1 align="center">Данил Зубов — Frontend React разработчик</h1>
 
 <p align="center">
-  📍 г. Москва · 
-  ✉️ <a href="mailto:dragongames85@mail.ru">dragongames85@mail.ru</a> · 
-  💬 <a href="https://t.me/DanilZubov85">t.me/DanilZubov85</a>  
+  <a href="mailto:dragongames85@mail.ru">
+    <img src="https://img.shields.io/badge/Почта-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8">
+  </a>&nbsp;
+  <a href="https://t.me/DanilZubov85">
+    <img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&logo=telegram&logoColor=38BDF8">
+  </a>&nbsp;
+  <a href="https://github.com/DragonGames85">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=A78BFA">
+  </a>
 </p>
 
-## Обо мне
+## 👨‍💻 Обо мне
 Frontend-разработчик с опытом более 3-х лет.  
 Специализируюсь на создании веб-приложений с использованием современных инструментов и технологий.  
 Имею опыт работы с **200+ различными библиотеками и инструментами**.
@@ -22,67 +28,66 @@ Frontend-разработчик с опытом более 3-х лет.
 
 ## 🛠 Стек технологий
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)&nbsp;
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)&nbsp;
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+### `Frontend`
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Electron](https://img.shields.io/badge/Electron-0B1220?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/SCSS-0B1220?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-### State Management / Data Fetching
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)&nbsp;
-![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=fff)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)&nbsp;
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=fff)&nbsp;
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
+### `State Management / Data Fetching`
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0B1220?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![SWR](https://img.shields.io/badge/SWR-0B1220?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/Redux-0B1220?style=for-the-badge&logo=redux&logoColor=9F7AEA)
+![Zustand](https://img.shields.io/badge/Zustand-0B1220?style=for-the-badge&logo=react&logoColor=D6B38C)
+![Axios](https://img.shields.io/badge/Axios-0B1220?style=for-the-badge&logo=axios&logoColor=8B5CF6)
 
-### React / UI
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=fff)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)&nbsp;
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)&nbsp;
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=fff)&nbsp;
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=fff)&nbsp;
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=fff)&nbsp;
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=fff)
+### `React / UI`
+![Mantine](https://img.shields.io/badge/Mantine-0B1220?style=for-the-badge&logo=mantine&logoColor=339AF0)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-0B1220?style=for-the-badge&logo=chakraui&logoColor=4FD1C5)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0B1220?style=for-the-badge&logo=antdesign&logoColor=1677FF)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0B1220?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
+![React Router](https://img.shields.io/badge/React_Router-0B1220?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0B1220?style=for-the-badge&logo=framer&logoColor=A78BFA)
 
-### API / Интеграции
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=fff)&nbsp;
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=fff)&nbsp;
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=fff)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+### `API / Интеграции`
+![REST API](https://img.shields.io/badge/REST_API-0B1220?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
+![WebSocket](https://img.shields.io/badge/WebSocket-0B1220?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)
+![i18next](https://img.shields.io/badge/i18next-0B1220?style=for-the-badge&logo=i18next&logoColor=26A69A)
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0B1220?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
-### Тестирование
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)&nbsp;
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff)&nbsp;
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)&nbsp;
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff)&nbsp;
-![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=fff)
+### `Тестирование`
+![Jest](https://img.shields.io/badge/Jest-0B1220?style=for-the-badge&logo=jest&logoColor=C21325)
+![Testing Library](https://img.shields.io/badge/Testing_Library-0B1220?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
+![Cypress](https://img.shields.io/badge/Cypress-0B1220?style=for-the-badge&logo=cypress&logoColor=69D3A7)
+![Storybook](https://img.shields.io/badge/Storybook-0B1220?style=for-the-badge&logo=storybook&logoColor=FF4785)
+![Chromatic](https://img.shields.io/badge/Chromatic-0B1220?style=for-the-badge&logo=chromatic&logoColor=FC521F)
 
-### Build / DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)&nbsp;
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)
+### `Build / DevOps`
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/GitLab-0B1220?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vite](https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=BD34FE)
+![Webpack](https://img.shields.io/badge/Webpack-0B1220?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
 
-### Code Quality
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)&nbsp;
-![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=fff)&nbsp;
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000)&nbsp;
-![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=fff)
+### `Code Quality`
+![ESLint](https://img.shields.io/badge/ESLint-0B1220?style=for-the-badge&logo=eslint&logoColor=4B32C3)
+![Stylelint](https://img.shields.io/badge/Stylelint-0B1220?style=for-the-badge&logo=stylelint&logoColor=FFFFFF)
+![Prettier](https://img.shields.io/badge/Prettier-0B1220?style=for-the-badge&logo=prettier&logoColor=F7B93E)
+![Husky](https://img.shields.io/badge/Husky-0B1220?style=for-the-badge&logo=git&logoColor=FFFFFF)
 
-### Design / Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
+### `Design / Tools`
+![Figma](https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Photoshop](https://img.shields.io/badge/Photoshop-0B1220?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 
-## Опыт работы
+## 💼 Опыт работы
 
 **ООО «Легион»** — Frontend-разработчик (Апрель 2026 - Август 2026) 
 - Разработка и развитие frontend-части веб-сервисов компании на React + Next, TypeScript.
@@ -120,7 +125,7 @@ CSS/SCSS.
 - Дальнейшая поддержка и развитие проекта: добавление новых функций, оптимизация производительности, обновление библиотек на новые версии и улучшение UX новыми решениями и подходами.
 
 
-## Последние проекты
+## 🧩 Последние проекты
 
 • https://legionsecurity.ru/
 (Корпоративный сайт ИТ-интегратора и вендора собственных решений в области
@@ -139,20 +144,21 @@ CSS/SCSS.
 (Промо-сайт игры «Побег в Куроко» с кастомным неоновым визуалом, отражающим концепцию игрового проекта.)
 
 
-## Образование
+## 🎓 Образование
 
 **Бакалавриат (2021–2025)** — Программная инженерия  
 *Высшая IT-школа ТГУ, Томск*  
 
 
-## Курсы
+## 📚 Курсы
 
 - «Продвинутый Frontend. В Production на React» — Ulbitv.ru (преподаватель: Тимур Ульби)
 
 
-## Контакты
+## 📡 Контакты
 
-- ✉️ **Email:** <dragongames85@mail.ru>  
-- 💬 **Telegram:** <https://t.me/DanilZubov85>  
-- 📄 **Резюме (PDF):** [CV2.pdf](https://github.com/DragonGames85/DragonGames85/blob/main/assets/CV.pdf)  
-
+<a href="mailto:dragongames85@mail.ru"><img src="https://img.shields.io/badge/EMAIL-dragongames85%40mail.ru-0B1220?style=for-the-badge&logo=maildotru&logoColor=38BDF8"></a>
+  
+<a href="https://t.me/DanilZubov85"><img src="https://img.shields.io/badge/TELEGRAM-DanilZubov85-0B1220?style=for-the-badge&logo=telegram&logoColor=38BDF8"></a>
+  
+<a href="https://hh.ru/resume/aec850f0ff0baa5bf30039ed1f536448303674"><img src="https://img.shields.io/badge/РЕЗЮМЕ-HH.RU-0B1220?style=for-the-badge&logo=headhunter&logoColor=FF3366"></a>
